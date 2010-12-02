@@ -1,7 +1,6 @@
 require File.expand_path('../tweetsentiments/configuration', __FILE__)
 require File.expand_path('../tweetsentiments/api', __FILE__)
 require File.expand_path('../tweetsentiments/client', __FILE__)
-require File.expand_path('../tweetsentiments/base', __FILE__)
 
 module Tweetsentiments
   extend Configuration
