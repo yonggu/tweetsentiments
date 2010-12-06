@@ -29,7 +29,6 @@ Gem::Specification.new do |s|
     "lib/faraday/raise_http_5xx.rb",
     "lib/tweetsentiments.rb",
     "lib/tweetsentiments/api.rb",
-    "lib/tweetsentiments/base.rb",
     "lib/tweetsentiments/client.rb",
     "lib/tweetsentiments/configuration.rb",
     "lib/tweetsentiments/connection.rb",
