@@ -12,11 +12,13 @@ GEM
     faraday_middleware (0.3.1)
       faraday (~> 0.5.3)
     git (1.2.5)
+    hashie (0.4.0)
     jeweler (1.5.1)
       bundler (~> 1.0.0)
       git (>= 1.2.5)
       rake
     json (1.4.6)
+    multi_xml (0.2.0)
     multipart-post (1.0.1)
     rack (1.2.1)
     rake (0.8.7)
@@ -42,8 +44,10 @@ DEPENDENCIES
   bundler (~> 1.0.0)
   faraday
   faraday_middleware
+  hashie
   jeweler (~> 1.5.1)
   json
+  multi_xml
   rake
   rcov
   rspec
