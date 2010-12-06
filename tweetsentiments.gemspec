@@ -43,7 +43,7 @@ Gem::Specification.new do |s|
     "spec/tweetsentiments_spec.rb",
     "tweetsentiments.gemspec"
   ]
-  s.homepage = %q{http://github.com/yonggu@intridea.com/tweetsentiments}
+  s.homepage = %q{https://github.com/yonggu/tweetsentiments}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}

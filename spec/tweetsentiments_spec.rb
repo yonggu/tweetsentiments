@@ -3,7 +3,7 @@ require File.expand_path('../spec_helper', __FILE__)
 describe Tweetsentiments do
   describe ".client" do
     it "should be a Tweetsentiments::Client" do
-      #Tweetsentiments.client.should be_a Tweetsentiments::Client
+      Tweetsentiments.client.should be_a Tweetsentiments::Client
     end
   end
   describe ".configure" do
